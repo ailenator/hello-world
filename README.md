@@ -1,2 +1,2 @@
-# mit-hello-world
+# hello-world
 A hello world example in the cloud
